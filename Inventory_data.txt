@@ -1,0 +1,7 @@
+barcode   productname
+100101    Cricket_Bat
+100102    Cricket_Ball
+100103    Cricket_Stump(combo_of_3)
+100104    Football
+100105    Basketball
+100106    Hockey_stick
