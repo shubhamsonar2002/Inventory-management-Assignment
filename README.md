@@ -7,9 +7,10 @@ we can maintain data of every customer with date and time.
 
 # IMPORTANT POINTS
 
-original_data.json is constant file where the data of store is stored.
-when customer parchase something store data will be updated in updated_data.json file.
-records.txt file will update bills with data and time.
+original_data.json is constant file where the data of store is stored.      
+when customer parchase something store data will be updated in updated_data.json file.     
+records.txt file will update bills with data and time.   
+
 
 # Project is based on barcodes so you must know following barcodes which are in json files:
 100101 Cricket_Bat  
