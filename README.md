@@ -5,7 +5,7 @@
 # Features 
 we can maintain data of every customer with date and time.
 
-#HOW TO RUN   
+# HOW TO RUN   
 1> all files above must contain in same dirctory.   
 2> open command prompt in same direcory.  
 3> Run command "python Project_Main_file1.py"     
